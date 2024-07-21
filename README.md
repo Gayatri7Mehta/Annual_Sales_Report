@@ -10,7 +10,7 @@ This Power BI project provides a comprehensive analysis of ecommerce sales data.
 - **Data Integration:** Joins and relationships between different data tables to provide a cohesive view of the data.
 
 ## Dashboard Visuals and Insights
-![Ecommerce Sales Dashboard](dashboard.png)
+![Ecommerce Sales Dashboard](dashboard.jpg)
 
 - **Overall Metrics:** Key performance indicators (KPIs) for total sales amount, profit, and average metrics.
 - **Sales by City:** Bar chart showing the sum of sales amount across different cities.
